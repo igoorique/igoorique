@@ -13,7 +13,7 @@ Estudante de Ciência da Computação focado em desenvolvimento de software, eng
 
 ### 📈 Projetos em Destaque
 *(Substitua os links abaixo com os seus repositórios reais conforme for criando seus projetos)*
-- 📌 [Projeto 1](https://github.com) - Descrição curta do seu principal projeto (ex: API em Python ou estrutura de banco de dados).
+- 📌 [Projeto 1](https://github.com) - 
 
 ---
 
