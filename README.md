@@ -18,5 +18,5 @@ Estudante de Ciência da Computação focado em desenvolvimento de software, eng
 ---
 
 ### 📬 Contato
-- 👔 [LinkedIn](https://linkedin.com)
+- 👔 [LinkedIn](www.linkedin.com/in/igorhenrique06)
 - 📧 igor.henrique@unochapecó.edu.br
