@@ -18,6 +18,6 @@ Estudante de Ciência da Computação focado em desenvolvimento de software, eng
 ---
 
 ### 📬 Contato
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+- 👔 [Igor Henrique Cunha](https://linkedin.com)
 
 - 📧 igor.henrique@unochapecó.edu.br
