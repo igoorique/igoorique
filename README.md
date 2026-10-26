@@ -21,6 +21,7 @@ Estudante de Ciência da Computação focado em desenvolvimento de software, eng
 
 Se quiser conversar sobre projetos, tecnologia ou oportunidades, sinta-se à vontade para entrar em contato:
 
-- 👔 **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com)
+- 👔 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com)
+
 - 📧 **E-mail Institucional:** [igor.henrique@unochapeco.edu.br](mailto:igor.henrique@unochapeco.edu.br)
 
