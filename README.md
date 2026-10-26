@@ -12,8 +12,8 @@ Estudante de Ciência da Computação focado em desenvolvimento de software, eng
 - **Ferramentas:** Git, GitHub, VS Code
 
 ### 📈 Projetos em Destaque
-*(Substitua os links abaixo com os seus repositórios reais conforme for criando seus projetos)*
-- 📌 [Projeto 1](https://github.com) - 
+
+- 📌 [Projeto 1](https://github.com)
 
 ---
 
