@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Igor Henrique Cunha 👋
 
-<!--
-**igoorique/igoorique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação focado em desenvolvimento de software, engenharia de dados e resolução de problemas.
 
-Here are some ideas to get you started:
+- 🎓 Graduando em **Ciência da Computação** pela **Unochapecó** (Previsão de conclusão: 2028)
+- 💼 Experiência profissional em rotinas corporativas, processos analíticos e faturamento na Tozzo Bebidas
+- 🌱 Aprofundando conhecimentos em arquitetura de software, automações e estruturas de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens de Programação:** Python, Linguagem R, SQL
+- **Áreas de Estudo:** Data Science, Machine Learning, Engenharia de Software
+- **Ferramentas:** Git, GitHub, VS Code
+
+### 📈 Projetos em Destaque
+*(Substitua os links abaixo com os seus repositórios reais conforme for criando seus projetos)*
+- 📌 [Projeto 1](https://github.com) - Descrição curta do seu principal projeto (ex: API em Python ou estrutura de banco de dados).
+
+---
+
+### 📬 Contato
+- 👔 [LinkedIn](https://linkedin.com)
+- 📧 igor.henrique@unochapecó.edu.br
