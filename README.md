@@ -18,6 +18,6 @@ Estudante de Ciência da Computação focado em desenvolvimento de software, eng
 ---
 
 ### 📬 Contato
-- 👔 [Igor Henrique Cunha](https://linkedin.com)
+- 👔 [Meu Linkedln](www.linkedin.com/in/igorhenrique06)
 
 - 📧 igor.henrique@unochapecó.edu.br
